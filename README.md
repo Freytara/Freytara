@@ -12,8 +12,8 @@ Freytara Validator stands at the forefront of blockchain validation, offering a 
 Join the Freytara Validator network and unlock the full potential of your project. With our unwavering commitment to performance
 ## Links 🤙
 [![Twitter](https://img.shields.io/static/v1?message=X.com&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/FreytaraChain)
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/961432371721277521)
-[![Notion](https://img.shields.io/static/v1?message=GitBook&logo=gitbook&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://freytara.notion.site/FREYTARA-144eb9bd289c42d5a4ab71ce4771bf95?pvs=4)
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000000&&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/961432371721277521)
+[![Notion](https://img.shields.io/static/v1?message=Notion&logo=gitbook&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://freytara.notion.site/FREYTARA-144eb9bd289c42d5a4ab71ce4771bf95?pvs=4)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=https%3A%2F%2Fimg.icons8.com%2Fios%2F50%2Fmedium-logo.png&logoColor=white)](https://medium.com/@freytara)
 
 ## My Validators (～￣▽￣)～
