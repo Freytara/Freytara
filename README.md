@@ -45,5 +45,13 @@ Join the Freytara Validator network and unlock the full potential of your projec
       <img src="https://freya.lol/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffadfe4cc-f997-406b-a257-40ff9aa4dae0%2Fb434c400-3705-4797-816f-42547e19d271%2F21781.png?table=block&id=12354fd7-fee1-8049-b9d4-fe961532487f&spaceId=fadfe4cc-f997-406b-a257-40ff9aa4dae0&width=40&userId=&cache=v2" alt="Лого 6" width="100"/><br>
       <a href="https://freya.lol/freytara/Stride-12354fd7fee18049b9d4fe961532487f">Stride</a>
     </td>
+        <td align="center">
+      <img src="https://assets.nodes.guru/fc0f2cdf-1112-4bce-93e0-4fe4d4fc2d91.svg" alt="Лого 6" width="100"/><br>
+      <a href="https://freytara.notion.site/Tangle-Network-14554fd7fee18090a2abc9eb6fa97b4f">Tangle</a>
+    </td>
+        <td align="center">
+      <img src="https://assets.nodes.guru/d9e82e4d-237a-40ec-81ec-620f23022c46.svg" alt="Лого 6" width="100"/><br>
+      <a href="https://freytara.notion.site/Pell-Network-14554fd7fee180418e76de9a2fb777bb">Pell</a>
+    </td>
 
 </table>
